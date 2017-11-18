@@ -1,0 +1,22 @@
+{
+  "name": "vue-material-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkIsDude/vue-material-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkIsDude/vue-material-docker/issues"
+  },
+  "homepage": "https://github.com/DarkIsDude/vue-material-docker#readme",
+  "dependencies": {
+    "vue-material": "^1.0.0-beta-4"
+  }
+}
